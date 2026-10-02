@@ -1,0 +1,2 @@
+# Keep CSV fixtures byte-identical across Windows and Unix checkouts.
+tests/fixtures/*.csv -text

@@ -1,0 +1,9 @@
+id,text,code
+001,"comma, inside",0007
+002,"quote ""inside""",NA
+003,"line one
+line two",null
+004,العربية,-
+005,=1+2,--
+006,"",false
+007, N/A ,TRUE

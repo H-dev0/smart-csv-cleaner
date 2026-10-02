@@ -1,0 +1,11 @@
+name,city,amount,note
+Alice,Riyadh,10,ok
+Alice,Riyadh,10,ok
+ Alice , جدة , 20 , N/A 
+,,,
+
+Bob,,30,null
+سارة,الرياض,40,"قال ""مرحبا"", ثم عاد"
+سارة,,NA,--
+Zed,NA,-,N/A
+   
